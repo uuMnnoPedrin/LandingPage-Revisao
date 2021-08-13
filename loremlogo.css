@@ -74,10 +74,12 @@ button:hover{
 
 .banner{
     padding: 62px 172px;
+
 }
 
 .bg-texto{
     padding: 62px 172px;
+    
 }
 
 .espacamento {
@@ -86,8 +88,11 @@ button:hover{
     align-items: center;
 }
 
+.espacamento img {
+    width: 50%;
+}
+
 .rodape{
     background-color: #E8E8E8;
     
 }
-
